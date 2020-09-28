@@ -37,6 +37,47 @@ Results will be presented textually and visually in the following format:
 
 ---
 
+## Features
+
+The application will include the following features:
+- MVP:
+    - KTS in original format
+    - KTS in "enhanced" format(s)
+    - Users can take assessments either as a guest or as a registered user
+    - Users can have their results emailed to them or downloaded as a file
+- Future Features:
+    - Users can share their results via hyperlink/email/social media/file
+    - Users can share the site via hyperlink/email/social media
+    - Users can invite others to take an assessment via hyperlink/email/social media
+    - Registered users can view/retrieve/share/delete their previous results
+    - Registered users can have "shared" assessments where the results may be visible to multiple users/parties
+    - Registered users can create "groups" where results from each group member's assessments can be viewed by other group members
+    - Companies/organizations can create an account to: 
+        - administer assessments to candidates/applicants/employees/members
+        - view and manage assessment results within their company/organization
+        - manage members and permissions within their company/organization
+    - Ads, donations, and/or premium features to cover server upkeep costs and support the developer(s)
+    - Possibly other types of assessments in addition to KTS
+    - Possibly mobile app for iOS/Android
+
+---
+
+## Technical Overview
+- Front-End: React App (may be migrated to Angular later)
+- Back-End: Spring Boot Microservices
+- DevOps: AWS or GCP
+- Database: 
+    - schemaless initially - some options include:
+        - MongoDB
+        - AWS DynamoDB
+        - GCP Firestore
+    - can migrate to SQL after solidifying data structure - some options include:
+        - MySQL
+        - AWS RDS
+        - GCP SQL
+
+---
+
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
 ## Available Scripts

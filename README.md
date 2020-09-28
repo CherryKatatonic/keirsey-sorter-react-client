@@ -1,3 +1,32 @@
+# Enhanced Keirsey Sorter (React Front-End)
+
+## The Problem:
+
+In the original format provided by Keirsey, the subject may find it very difficult to answer some of the questions because they feel closely or evenly aligned with both available answers, but they can only choose one or the other. This can cause a "randomization" effect and possibly result in an inaccurate assessment of the subject's temperament.
+
+For example, say the subject answers 10 of the 70 questions randomly because they felt 50/50 about the answers for those particular questions. This may lead to the subject believing their temperament is of one type when it is actually of a different type, or perhaps an evenly mixed type. 
+
+Just from those 10 randomly-answered questions, each having 2 possible answers, the user would have over 1,000 different possible results that they could choose from, making it very difficult to know for sure what their primary temperament type is, not to mention how time consuming it would be to find and evaluate all of those possible outcomes.
+
+## The Solution:
+
+The goal of this application is to address the fine lines between temperament types, as well as the "mixed" types referred to in Keirsey's book.
+
+The enhanced Keirsey Sorter will offer the original temperament sorter designed by David Keirsey in its original format as presented in his book *Please Understand Me*, as well as one or more additional formats. The additional format(s) will allow the user to answer each question on the assessment in a *less binary* way, and present the final temperament result as *percentages* of each type rather than simply the nearest match.
+
+This way, the subject will not be forced to choose between 2 answers that they closely or equally align with, resulting in a more *accurate* assessment, and they will also see how closely they align with *all* temperament types, resulting in a more *comprehensive* understanding.
+
+Possible non-binary formats (sorted from simplest to most complex) may include:
+1. The ability to choose both answers for each question
+2. A scale for the user to rate how strongly they feel aligned with each answer
+3. More than 2 possible answers for each question
+
+Results will be presented textually and visually in the following format:
+- The user's *primary* temperament type(s)
+- *Percentages* of how closely the user is aligned with *each* type
+
+---
+
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
 ## Available Scripts

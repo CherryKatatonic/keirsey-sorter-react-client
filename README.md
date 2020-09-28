@@ -1,6 +1,14 @@
 # Enhanced Keirsey Sorter (React Front-End)
 
-## The Problem:
+## Introduction
+
+The Keirsey Temperament Sorter (KTS) is an assessment designed by David Keirsey consisting of 70 questions/choices, each with 2 possible answers/decisions. It is designed to categorize and help to better understand the subject's personality and temperament. It was first presented in Keirsey's book *Please Understand Me*. It exploded in popularity, and has been adopted worldwide for many different use cases. 
+
+It is influenced by the Myers–Briggs Type Indicator (MBTI), and according to Keirsey, it is meant to address some issues/flaws that were present in Myers' approach. Myers primarily focused on how people think and feel, whereas Keirsey focused more on behavior, which is directly observable.
+
+---
+
+## Problem
 
 In the original format provided by Keirsey, the subject may find it very difficult to answer some of the questions because they feel closely or evenly aligned with both available answers, but they can only choose one or the other. This can cause a "randomization" effect and possibly result in an inaccurate assessment of the subject's temperament.
 
@@ -8,11 +16,13 @@ For example, say the subject answers 10 of the 70 questions randomly because the
 
 Just from those 10 randomly-answered questions, each having 2 possible answers, the user would have over 1,000 different possible results that they could choose from, making it very difficult to know for sure what their primary temperament type is, not to mention how time consuming it would be to find and evaluate all of those possible outcomes.
 
-## The Solution:
+---
+
+## Solution
 
 The goal of this application is to address the fine lines between temperament types, as well as the "mixed" types referred to in Keirsey's book.
 
-The enhanced Keirsey Sorter will offer the original temperament sorter designed by David Keirsey in its original format as presented in his book *Please Understand Me*, as well as one or more additional formats. The additional format(s) will allow the user to answer each question on the assessment in a *less binary* way, and present the final temperament result as *percentages* of each type rather than simply the nearest match.
+The application will offer the original assessment designed by David Keirsey in its original format, as well as one or more additional formats. The additional format(s) will allow the user to answer each question on the assessment in a *less binary* way, and present the final temperament result as *percentages* of each type rather than simply the nearest match.
 
 This way, the subject will not be forced to choose between 2 answers that they closely or equally align with, resulting in a more *accurate* assessment, and they will also see how closely they align with *all* temperament types, resulting in a more *comprehensive* understanding.
 

@@ -31,3 +31,21 @@ export const generateKeirseyClassicJSON = () => {
 
     return questions;
 }
+
+// Array
+// Generate tedious boilerplate JSON for Classic Keirsey assessment questions
+export const generateKeirseyClassicQuestionsJSON = () => {
+    const questions = [];
+
+    // Question id begins at 1 to avoid confusion between index and question number
+    for (let i = 0; i < 70; i++) {
+        const q = {};
+
+        q.id = i + 1;
+        q.text = "CHANGE_ME"
+
+        questions.push(q);
+    }
+
+    return questions;
+}

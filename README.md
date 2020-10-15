@@ -14,7 +14,7 @@ In the original format provided by Keirsey, the subject may find it very difficu
 
 For example, say the subject answers 10 of the 70 questions randomly because they felt 50/50 about the answers for those particular questions. This may lead to the subject believing their temperament is of one type when it is actually of a different type, or perhaps an evenly mixed type. 
 
-Just from those 10 randomly-answered questions, each having 2 possible answers, the user would have over 1,000 different possible results that they could choose from, making it very difficult to know for sure what their primary temperament type is, not to mention how time consuming it would be to find and evaluate all of those possible outcomes.
+Just from those 10 randomly-answered questions, each having 2 possible answers, the user would have over 1,000 different combinations of possible results, potentially making it difficult to know for sure what their primary temperament type is.
 
 ---
 

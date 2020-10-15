@@ -14,7 +14,7 @@ In the original format provided by Keirsey, the subject may find it very difficu
 
 For example, say the subject answers 10 of the 70 questions randomly because they felt 50/50 about the answers for those particular questions. This may lead to the subject believing their temperament is of one type when it is actually of a different type, or perhaps an evenly mixed type. 
 
-Just from those 10 randomly-answered questions, each having 2 possible answers, the user would have over 1,000 different combinations of possible results, potentially making it difficult to know for sure what their primary temperament type is.
+Just from those 10 randomly-answered questions, each having 2 possible answers, the subject would have over 1,000 different combinations of possible results, potentially making it difficult to know for sure what their primary temperament type is.
 
 ---
 
@@ -24,7 +24,7 @@ The goal of this application is to address the fine lines between temperament ty
 
 The application will offer the original assessment designed by David Keirsey in its original format, as well as one or more additional formats. The additional format(s) will allow the user to answer each question on the assessment in a *less binary* way, and present the final temperament result as *percentages* of each type rather than simply the nearest match.
 
-This way, the subject will not be forced to choose between 2 answers that they closely or equally align with, resulting in a more *accurate* assessment, and they will also see how closely they align with *all* temperament types, resulting in a more *comprehensive* understanding.
+This way, the user will not be forced to choose between 2 answers that they closely or equally align with, resulting in a more *accurate* assessment, and they will also see how closely they align with *all* temperament types, resulting in a more *comprehensive* understanding.
 
 Possible non-binary formats (sorted from simplest to most complex) may include:
 1. The ability to choose both answers for each question

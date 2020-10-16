@@ -1,980 +1,980 @@
 [
     {
-        "id": 0,
-        "text": "CHANGE_ME",
+        "id": 1,
+        "text": "At a party, do you",
         "answers": [
             {
-                "id": "A",
+                "id": "a",
                 "type": "E"
             },
             {
-                "id": "B",
+                "id": "b",
                 "type": "I"
             }
         ]
     },
     {
-        "id": 1,
-        "text": "CHANGE_ME",
-        "answers": [
-            {
-                "id": "A",
-                "type": "S"
-            },
-            {
-                "id": "B",
-                "type": "N"
-            }
-        ]
-    },
-    {
         "id": 2,
-        "text": "CHANGE_ME",
+        "text": "Are you more",
         "answers": [
             {
-                "id": "A",
+                "id": "a",
                 "type": "S"
             },
             {
-                "id": "B",
+                "id": "b",
                 "type": "N"
             }
         ]
     },
     {
         "id": 3,
-        "text": "CHANGE_ME",
+        "text": "Is it worse to",
         "answers": [
             {
-                "id": "A",
-                "type": "T"
+                "id": "a",
+                "type": "S"
             },
             {
-                "id": "B",
-                "type": "F"
+                "id": "b",
+                "type": "N"
             }
         ]
     },
     {
         "id": 4,
-        "text": "CHANGE_ME",
+        "text": "Are you more impressed by",
         "answers": [
             {
-                "id": "A",
+                "id": "a",
                 "type": "T"
             },
             {
-                "id": "B",
+                "id": "b",
                 "type": "F"
             }
         ]
     },
     {
         "id": 5,
-        "text": "CHANGE_ME",
+        "text": "Are you more drawn toward the",
         "answers": [
             {
-                "id": "A",
-                "type": "J"
+                "id": "a",
+                "type": "T"
             },
             {
-                "id": "B",
-                "type": "P"
+                "id": "b",
+                "type": "F"
             }
         ]
     },
     {
         "id": 6,
-        "text": "CHANGE_ME",
+        "text": "Do you prefer to work",
         "answers": [
             {
-                "id": "A",
+                "id": "a",
                 "type": "J"
             },
             {
-                "id": "B",
+                "id": "b",
                 "type": "P"
             }
         ]
     },
     {
         "id": 7,
-        "text": "CHANGE_ME",
+        "text": "Do you tend to choose",
         "answers": [
             {
-                "id": "A",
-                "type": "E"
+                "id": "a",
+                "type": "J"
             },
             {
-                "id": "B",
-                "type": "I"
+                "id": "b",
+                "type": "P"
             }
         ]
     },
     {
         "id": 8,
-        "text": "CHANGE_ME",
+        "text": "At parties, do you",
         "answers": [
             {
-                "id": "A",
-                "type": "S"
+                "id": "a",
+                "type": "E"
             },
             {
-                "id": "B",
-                "type": "N"
+                "id": "b",
+                "type": "I"
             }
         ]
     },
     {
         "id": 9,
-        "text": "CHANGE_ME",
+        "text": "Are you more attracted to",
         "answers": [
             {
-                "id": "A",
+                "id": "a",
                 "type": "S"
             },
             {
-                "id": "B",
+                "id": "b",
                 "type": "N"
             }
         ]
     },
     {
         "id": 10,
-        "text": "CHANGE_ME",
+        "text": "Are you more interested in",
         "answers": [
             {
-                "id": "A",
-                "type": "T"
+                "id": "a",
+                "type": "S"
             },
             {
-                "id": "B",
-                "type": "F"
+                "id": "b",
+                "type": "N"
             }
         ]
     },
     {
         "id": 11,
-        "text": "CHANGE_ME",
+        "text": "In judging others, are you more swayed by",
         "answers": [
             {
-                "id": "A",
+                "id": "a",
                 "type": "T"
             },
             {
-                "id": "B",
+                "id": "b",
                 "type": "F"
             }
         ]
     },
     {
         "id": 12,
-        "text": "CHANGE_ME",
+        "text": "In approaching others is your inclination to be somewhat",
         "answers": [
             {
-                "id": "A",
-                "type": "J"
+                "id": "a",
+                "type": "T"
             },
             {
-                "id": "B",
-                "type": "P"
+                "id": "b",
+                "type": "F"
             }
         ]
     },
     {
         "id": 13,
-        "text": "CHANGE_ME",
+        "text": "Are you more",
         "answers": [
             {
-                "id": "A",
+                "id": "a",
                 "type": "J"
             },
             {
-                "id": "B",
+                "id": "b",
                 "type": "P"
             }
         ]
     },
     {
         "id": 14,
-        "text": "CHANGE_ME",
+        "text": "Does it bother you more having things",
         "answers": [
             {
-                "id": "A",
-                "type": "E"
+                "id": "a",
+                "type": "J"
             },
             {
-                "id": "B",
-                "type": "I"
+                "id": "b",
+                "type": "P"
             }
         ]
     },
     {
         "id": 15,
-        "text": "CHANGE_ME",
+        "text": "In your social groups, do you",
         "answers": [
             {
-                "id": "A",
-                "type": "S"
+                "id": "a",
+                "type": "E"
             },
             {
-                "id": "B",
-                "type": "N"
+                "id": "b",
+                "type": "I"
             }
         ]
     },
     {
         "id": 16,
-        "text": "CHANGE_ME",
+        "text": "In doing ordinary things, are you more likely to",
         "answers": [
             {
-                "id": "A",
+                "id": "a",
                 "type": "S"
             },
             {
-                "id": "B",
+                "id": "b",
                 "type": "N"
             }
         ]
     },
     {
         "id": 17,
-        "text": "CHANGE_ME",
+        "text": "Writers should",
         "answers": [
             {
-                "id": "A",
-                "type": "T"
+                "id": "a",
+                "type": "S"
             },
             {
-                "id": "B",
-                "type": "F"
+                "id": "b",
+                "type": "N"
             }
         ]
     },
     {
         "id": 18,
-        "text": "CHANGE_ME",
+        "text": "Which appeals to you more:",
         "answers": [
             {
-                "id": "A",
+                "id": "a",
                 "type": "T"
             },
             {
-                "id": "B",
+                "id": "b",
                 "type": "F"
             }
         ]
     },
     {
         "id": 19,
-        "text": "CHANGE_ME",
+        "text": "Are you more comfortable in making",
         "answers": [
             {
-                "id": "A",
-                "type": "J"
+                "id": "a",
+                "type": "T"
             },
             {
-                "id": "B",
-                "type": "P"
+                "id": "b",
+                "type": "F"
             }
         ]
     },
     {
         "id": 20,
-        "text": "CHANGE_ME",
+        "text": "Do you want things",
         "answers": [
             {
-                "id": "A",
+                "id": "a",
                 "type": "J"
             },
             {
-                "id": "B",
+                "id": "b",
                 "type": "P"
             }
         ]
     },
     {
         "id": 21,
-        "text": "CHANGE_ME",
+        "text": "Would you say you are more",
         "answers": [
             {
-                "id": "A",
-                "type": "E"
+                "id": "a",
+                "type": "J"
             },
             {
-                "id": "B",
-                "type": "I"
+                "id": "b",
+                "type": "P"
             }
         ]
     },
     {
         "id": 22,
-        "text": "CHANGE_ME",
+        "text": "In phoning, do you",
         "answers": [
             {
-                "id": "A",
-                "type": "S"
+                "id": "a",
+                "type": "E"
             },
             {
-                "id": "B",
-                "type": "N"
+                "id": "b",
+                "type": "I"
             }
         ]
     },
     {
         "id": 23,
-        "text": "CHANGE_ME",
+        "text": "Facts",
         "answers": [
             {
-                "id": "A",
+                "id": "a",
                 "type": "S"
             },
             {
-                "id": "B",
+                "id": "b",
                 "type": "N"
             }
         ]
     },
     {
         "id": 24,
-        "text": "CHANGE_ME",
+        "text": "Are visionaries",
         "answers": [
             {
-                "id": "A",
-                "type": "T"
+                "id": "a",
+                "type": "S"
             },
             {
-                "id": "B",
-                "type": "F"
+                "id": "b",
+                "type": "N"
             }
         ]
     },
     {
         "id": 25,
-        "text": "CHANGE_ME",
+        "text": "Are you more often",
         "answers": [
             {
-                "id": "A",
+                "id": "a",
                 "type": "T"
             },
             {
-                "id": "B",
+                "id": "b",
                 "type": "F"
             }
         ]
     },
     {
         "id": 26,
-        "text": "CHANGE_ME",
+        "text": "Is it worse to be",
         "answers": [
             {
-                "id": "A",
-                "type": "J"
+                "id": "a",
+                "type": "T"
             },
             {
-                "id": "B",
-                "type": "P"
+                "id": "b",
+                "type": "F"
             }
         ]
     },
     {
         "id": 27,
-        "text": "CHANGE_ME",
+        "text": "Should one usually let events occur",
         "answers": [
             {
-                "id": "A",
+                "id": "a",
                 "type": "J"
             },
             {
-                "id": "B",
+                "id": "b",
                 "type": "P"
             }
         ]
     },
     {
         "id": 28,
-        "text": "CHANGE_ME",
+        "text": "Do you feel better about",
         "answers": [
             {
-                "id": "A",
-                "type": "E"
+                "id": "a",
+                "type": "J"
             },
             {
-                "id": "B",
-                "type": "I"
+                "id": "b",
+                "type": "P"
             }
         ]
     },
     {
         "id": 29,
-        "text": "CHANGE_ME",
+        "text": "In company do you",
         "answers": [
             {
-                "id": "A",
-                "type": "S"
+                "id": "a",
+                "type": "E"
             },
             {
-                "id": "B",
-                "type": "N"
+                "id": "b",
+                "type": "I"
             }
         ]
     },
     {
         "id": 30,
-        "text": "CHANGE_ME",
+        "text": "Common sense is",
         "answers": [
             {
-                "id": "A",
+                "id": "a",
                 "type": "S"
             },
             {
-                "id": "B",
+                "id": "b",
                 "type": "N"
             }
         ]
     },
     {
         "id": 31,
-        "text": "CHANGE_ME",
+        "text": "Children often do not",
         "answers": [
             {
-                "id": "A",
-                "type": "T"
+                "id": "a",
+                "type": "S"
             },
             {
-                "id": "B",
-                "type": "F"
+                "id": "b",
+                "type": "N"
             }
         ]
     },
     {
         "id": 32,
-        "text": "CHANGE_ME",
+        "text": "In making decisions, do you feel more comfortable with",
         "answers": [
             {
-                "id": "A",
+                "id": "a",
                 "type": "T"
             },
             {
-                "id": "B",
+                "id": "b",
                 "type": "F"
             }
         ]
     },
     {
         "id": 33,
-        "text": "CHANGE_ME",
+        "text": "Are you more",
         "answers": [
             {
-                "id": "A",
-                "type": "J"
+                "id": "a",
+                "type": "T"
             },
             {
-                "id": "B",
-                "type": "P"
+                "id": "b",
+                "type": "F"
             }
         ]
     },
     {
         "id": 34,
-        "text": "CHANGE_ME",
+        "text": "Which is more admirable:",
         "answers": [
             {
-                "id": "A",
+                "id": "a",
                 "type": "J"
             },
             {
-                "id": "B",
+                "id": "b",
                 "type": "P"
             }
         ]
     },
     {
         "id": 35,
-        "text": "CHANGE_ME",
+        "text": "Do you put more value on the",
         "answers": [
             {
-                "id": "A",
-                "type": "E"
+                "id": "a",
+                "type": "J"
             },
             {
-                "id": "B",
-                "type": "I"
+                "id": "b",
+                "type": "P"
             }
         ]
     },
     {
         "id": 36,
-        "text": "CHANGE_ME",
+        "text": "Does new and non-routine interaction with others",
         "answers": [
             {
-                "id": "A",
-                "type": "S"
+                "id": "a",
+                "type": "E"
             },
             {
-                "id": "B",
-                "type": "N"
+                "id": "b",
+                "type": "I"
             }
         ]
     },
     {
         "id": 37,
-        "text": "CHANGE_ME",
+        "text": "Are you more frequently",
         "answers": [
             {
-                "id": "A",
+                "id": "a",
                 "type": "S"
             },
             {
-                "id": "B",
+                "id": "b",
                 "type": "N"
             }
         ]
     },
     {
         "id": 38,
-        "text": "CHANGE_ME",
+        "text": "Are you more likely to",
         "answers": [
             {
-                "id": "A",
-                "type": "T"
+                "id": "a",
+                "type": "S"
             },
             {
-                "id": "B",
-                "type": "F"
+                "id": "b",
+                "type": "N"
             }
         ]
     },
     {
         "id": 39,
-        "text": "CHANGE_ME",
+        "text": "Which is more satisfying:",
         "answers": [
             {
-                "id": "A",
+                "id": "a",
                 "type": "T"
             },
             {
-                "id": "B",
+                "id": "b",
                 "type": "F"
             }
         ]
     },
     {
         "id": 40,
-        "text": "CHANGE_ME",
+        "text": "Which rules you more:",
         "answers": [
             {
-                "id": "A",
-                "type": "J"
+                "id": "a",
+                "type": "T"
             },
             {
-                "id": "B",
-                "type": "P"
+                "id": "b",
+                "type": "F"
             }
         ]
     },
     {
         "id": 41,
-        "text": "CHANGE_ME",
+        "text": "Are you more comfortable with work that is",
         "answers": [
             {
-                "id": "A",
+                "id": "a",
                 "type": "J"
             },
             {
-                "id": "B",
+                "id": "b",
                 "type": "P"
             }
         ]
     },
     {
         "id": 42,
-        "text": "CHANGE_ME",
+        "text": "Do you tend to look for",
         "answers": [
             {
-                "id": "A",
-                "type": "E"
+                "id": "a",
+                "type": "J"
             },
             {
-                "id": "B",
-                "type": "I"
+                "id": "b",
+                "type": "P"
             }
         ]
     },
     {
         "id": 43,
-        "text": "CHANGE_ME",
+        "text": "Do you prefer",
         "answers": [
             {
-                "id": "A",
-                "type": "S"
+                "id": "a",
+                "type": "E"
             },
             {
-                "id": "B",
-                "type": "N"
+                "id": "b",
+                "type": "I"
             }
         ]
     },
     {
         "id": 44,
-        "text": "CHANGE_ME",
+        "text": "Do you go more by",
         "answers": [
             {
-                "id": "A",
+                "id": "a",
                 "type": "S"
             },
             {
-                "id": "B",
+                "id": "b",
                 "type": "N"
             }
         ]
     },
     {
         "id": 45,
-        "text": "CHANGE_ME",
+        "text": "Are you more interested in",
         "answers": [
             {
-                "id": "A",
-                "type": "T"
+                "id": "a",
+                "type": "S"
             },
             {
-                "id": "B",
-                "type": "F"
+                "id": "b",
+                "type": "N"
             }
         ]
     },
     {
         "id": 46,
-        "text": "CHANGE_ME",
+        "text": "Which is more of a compliment:",
         "answers": [
             {
-                "id": "A",
+                "id": "a",
                 "type": "T"
             },
             {
-                "id": "B",
+                "id": "b",
                 "type": "F"
             }
         ]
     },
     {
         "id": 47,
-        "text": "CHANGE_ME",
+        "text": "Do you value in yourself more that you are",
         "answers": [
             {
-                "id": "A",
-                "type": "J"
+                "id": "a",
+                "type": "T"
             },
             {
-                "id": "B",
-                "type": "P"
+                "id": "b",
+                "type": "F"
             }
         ]
     },
     {
         "id": 48,
-        "text": "CHANGE_ME",
+        "text": "Do you more often prefer the",
         "answers": [
             {
-                "id": "A",
+                "id": "a",
                 "type": "J"
             },
             {
-                "id": "B",
+                "id": "b",
                 "type": "P"
             }
         ]
     },
     {
         "id": 49,
-        "text": "CHANGE_ME",
+        "text": "Are you more comfortable",
         "answers": [
             {
-                "id": "A",
-                "type": "E"
+                "id": "a",
+                "type": "J"
             },
             {
-                "id": "B",
-                "type": "I"
+                "id": "b",
+                "type": "P"
             }
         ]
     },
     {
         "id": 50,
-        "text": "CHANGE_ME",
+        "text": "Do you",
         "answers": [
             {
-                "id": "A",
-                "type": "S"
+                "id": "a",
+                "type": "E"
             },
             {
-                "id": "B",
-                "type": "N"
+                "id": "b",
+                "type": "I"
             }
         ]
     },
     {
         "id": 51,
-        "text": "CHANGE_ME",
+        "text": "Are you more likely to trust your",
         "answers": [
             {
-                "id": "A",
+                "id": "a",
                 "type": "S"
             },
             {
-                "id": "B",
+                "id": "b",
                 "type": "N"
             }
         ]
     },
     {
         "id": 52,
-        "text": "CHANGE_ME",
+        "text": "Do you feel",
         "answers": [
             {
-                "id": "A",
-                "type": "T"
+                "id": "a",
+                "type": "S"
             },
             {
-                "id": "B",
-                "type": "F"
+                "id": "b",
+                "type": "N"
             }
         ]
     },
     {
         "id": 53,
-        "text": "CHANGE_ME",
+        "text": "Which person is more to be complimented: one of",
         "answers": [
             {
-                "id": "A",
+                "id": "a",
                 "type": "T"
             },
             {
-                "id": "B",
+                "id": "b",
                 "type": "F"
             }
         ]
     },
     {
         "id": 54,
-        "text": "CHANGE_ME",
+        "text": "Are you inclined more to be",
         "answers": [
             {
-                "id": "A",
-                "type": "J"
+                "id": "a",
+                "type": "T"
             },
             {
-                "id": "B",
-                "type": "P"
+                "id": "b",
+                "type": "F"
             }
         ]
     },
     {
         "id": 55,
-        "text": "CHANGE_ME",
+        "text": "Is it preferable mostly to",
         "answers": [
             {
-                "id": "A",
+                "id": "a",
                 "type": "J"
             },
             {
-                "id": "B",
+                "id": "b",
                 "type": "P"
             }
         ]
     },
     {
         "id": 56,
-        "text": "CHANGE_ME",
+        "text": "In relationships, should most things be",
         "answers": [
             {
-                "id": "A",
-                "type": "E"
+                "id": "a",
+                "type": "J"
             },
             {
-                "id": "B",
-                "type": "I"
+                "id": "b",
+                "type": "P"
             }
         ]
     },
     {
         "id": 57,
-        "text": "CHANGE_ME",
+        "text": "When the phone rings, do you",
         "answers": [
             {
-                "id": "A",
-                "type": "S"
+                "id": "a",
+                "type": "E"
             },
             {
-                "id": "B",
-                "type": "N"
+                "id": "b",
+                "type": "I"
             }
         ]
     },
     {
         "id": 58,
-        "text": "CHANGE_ME",
+        "text": "Do you prize more in yourself",
         "answers": [
             {
-                "id": "A",
+                "id": "a",
                 "type": "S"
             },
             {
-                "id": "B",
+                "id": "b",
                 "type": "N"
             }
         ]
     },
     {
         "id": 59,
-        "text": "CHANGE_ME",
+        "text": "Are you drawn more to",
         "answers": [
             {
-                "id": "A",
-                "type": "T"
+                "id": "a",
+                "type": "S"
             },
             {
-                "id": "B",
-                "type": "F"
+                "id": "b",
+                "type": "N"
             }
         ]
     },
     {
         "id": 60,
-        "text": "CHANGE_ME",
+        "text": "Which seems the greater error:",
         "answers": [
             {
-                "id": "A",
+                "id": "a",
                 "type": "T"
             },
             {
-                "id": "B",
+                "id": "b",
                 "type": "F"
             }
         ]
     },
     {
         "id": 61,
-        "text": "CHANGE_ME",
+        "text": "Do you see yourself as basically",
         "answers": [
             {
-                "id": "A",
-                "type": "J"
+                "id": "a",
+                "type": "T"
             },
             {
-                "id": "B",
-                "type": "P"
+                "id": "b",
+                "type": "F"
             }
         ]
     },
     {
         "id": 62,
-        "text": "CHANGE_ME",
+        "text": "Which situation appeals to you more:",
         "answers": [
             {
-                "id": "A",
+                "id": "a",
                 "type": "J"
             },
             {
-                "id": "B",
+                "id": "b",
                 "type": "P"
             }
         ]
     },
     {
         "id": 63,
-        "text": "CHANGE_ME",
+        "text": "Are you a person that is more",
         "answers": [
             {
-                "id": "A",
-                "type": "E"
+                "id": "a",
+                "type": "J"
             },
             {
-                "id": "B",
-                "type": "I"
+                "id": "b",
+                "type": "P"
             }
         ]
     },
     {
         "id": 64,
-        "text": "CHANGE_ME",
+        "text": "Are you more inclined to be",
         "answers": [
             {
-                "id": "A",
-                "type": "S"
+                "id": "a",
+                "type": "E"
             },
             {
-                "id": "B",
-                "type": "N"
+                "id": "b",
+                "type": "I"
             }
         ]
     },
     {
         "id": 65,
-        "text": "CHANGE_ME",
+        "text": "In writings, do you prefer",
         "answers": [
             {
-                "id": "A",
+                "id": "a",
                 "type": "S"
             },
             {
-                "id": "B",
+                "id": "b",
                 "type": "N"
             }
         ]
     },
     {
         "id": 66,
-        "text": "CHANGE_ME",
+        "text": "Is it harder for you to",
         "answers": [
             {
-                "id": "A",
-                "type": "T"
+                "id": "a",
+                "type": "S"
             },
             {
-                "id": "B",
-                "type": "F"
+                "id": "b",
+                "type": "N"
             }
         ]
     },
     {
         "id": 67,
-        "text": "CHANGE_ME",
+        "text": "Which do you wish more for yourself:",
         "answers": [
             {
-                "id": "A",
+                "id": "a",
                 "type": "T"
             },
             {
-                "id": "B",
+                "id": "b",
                 "type": "F"
             }
         ]
     },
     {
         "id": 68,
-        "text": "CHANGE_ME",
+        "text": "Which is the greater fault:",
         "answers": [
             {
-                "id": "A",
-                "type": "J"
+                "id": "a",
+                "type": "T"
             },
             {
-                "id": "B",
-                "type": "P"
+                "id": "b",
+                "type": "F"
             }
         ]
     },
     {
         "id": 69,
-        "text": "CHANGE_ME",
+        "text": "Do you prefer the",
         "answers": [
             {
-                "id": "A",
+                "id": "a",
                 "type": "J"
             },
             {
-                "id": "B",
+                "id": "b",
+                "type": "P"
+            }
+        ]
+    },
+    {
+        "id": 70,
+        "text": "Do you tend to be more",
+        "answers": [
+            {
+                "id": "a",
+                "type": "J"
+            },
+            {
+                "id": "b",
                 "type": "P"
             }
         ]

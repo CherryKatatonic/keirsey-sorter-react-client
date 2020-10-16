@@ -2,11 +2,9 @@ import * as generators from './keirsey-classic-generator';
 
 // Test Keirsey Classic generator
 const keirseyClassicJSON = generators.generateKeirseyClassicJSON();
-const keirseyClassicJSONQuestions = generators.generateKeirseyClassicQuestionsJSON();
 
 // Log JSON string for debugging, and also to copy/paste into JSON file as boilerplate
 console.log(JSON.stringify(keirseyClassicJSON));
-console.log(JSON.stringify(keirseyClassicJSONQuestions));
 
 test('generateKeirseyClassic() returns valid JSON', () => {
     expect(keirseyClassicJSON).not.toBeUndefined;

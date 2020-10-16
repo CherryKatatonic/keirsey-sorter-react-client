@@ -1,4 +1,4 @@
-import * as generators from './assessmentGenerator';
+import * as generators from './keirsey-classic-generator';
 
 // Test Keirsey Classic generator
 const keirseyClassicJSON = generators.generateKeirseyClassicJSON();

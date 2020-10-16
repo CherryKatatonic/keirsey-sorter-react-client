@@ -16,6 +16,12 @@ test('generateKeirseyClassic() returns correct amount of questions', () => {
     expect(keirseyClassicJSON.length).toEqual(70);
 });
 
+test('generateKeirseyClassic() assigns correct id to each question', () => {
+    keirseyClassicJSON.forEach((question, i) => {
+        expect(question.id).toEqual(i + 1);
+    });
+});
+
 test('generateKeirseyClassic() assigns correct type to each answer', () => {
     expect(keirseyClassicJSON[0].answers[0].type).toEqual("E");
     expect(keirseyClassicJSON[7].answers[1].type).toEqual("I");

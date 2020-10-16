@@ -34,7 +34,7 @@ export const generateKeirseyClassicJSON = () => {
 
 // Array
 // Generate tedious boilerplate JSON for Classic Keirsey assessment questions
-export const generateKeirseyClassicQuestionsJSON = () => {
+export const generateKeirseyClassicQuestionsBoilerplate = () => {
     const questions = [];
 
     for (let i = 0; i < 70; i++) {

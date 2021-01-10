@@ -1,8 +1,9 @@
 // Utility functions for generating boilerplate JSON for building out assessments
+import questions from './keirsey-classic-questions';
 
 // Generate tedious boilerplate JSON for Classic Keirsey assessment
 export const generateKeirseyClassicBoilerplate = () => {
-    const questions = [];
+    const generatedQuestions = [];
     const typeSequence = ["E", "I", "S", "N", "S", "N", "T", "F", "T", "F", "J", "P", "J", "P"];
     let type = 0;
     
@@ -11,7 +12,7 @@ export const generateKeirseyClassicBoilerplate = () => {
 
         // Question id begins at 1 to avoid confusion between index and question number
         q.id = i + 1;
-        q.text = questionText[i].text;
+        q.text = questions[i].text;
         q.answers = [];
 
         q.answers[0] = {};
@@ -26,8 +27,8 @@ export const generateKeirseyClassicBoilerplate = () => {
         q.answers[1].type = typeSequence[type];
         type === 13 ? type = 0 : type += 1;
 
-        questions.push(q);
+        generatedQuestions.push(q);
     }
 
-    return questions;
+    return generatedQuestions;
 }

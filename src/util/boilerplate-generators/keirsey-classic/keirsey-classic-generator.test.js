@@ -1,7 +1,7 @@
 import * as generators from './keirsey-classic-generator';
 
 // Test Keirsey Classic generator
-const keirseyClassicJSON = generators.generateKeirseyClassicJSON();
+const keirseyClassicJSON = generators.generateKeirseyClassicBoilerplate();
 
 // Log JSON string for debugging, and also to copy/paste into JSON file as boilerplate
 console.log(JSON.stringify(keirseyClassicJSON));
